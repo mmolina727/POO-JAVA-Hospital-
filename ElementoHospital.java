@@ -1,4 +1,4 @@
-package parcial20;
+package Hospital;
 
 import java.util.ArrayList;
 

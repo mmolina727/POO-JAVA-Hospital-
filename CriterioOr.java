@@ -1,4 +1,4 @@
-package parcial20;
+package Hospital;
 
 public class CriterioOr extends Criterio{
 	
